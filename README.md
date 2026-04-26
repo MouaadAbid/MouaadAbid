@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Mouaad 👋</h1>
-<h3 align="center">Full-Stack Developer · Django / Angular · Paris, France</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:mouaadabid21@gmail.com">
     <img src="https://img.shields.io/badge/Email-mouaadabid21%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abid-mouaad">
+  <a href="https://www.linkedin.com/in/abid-mouaad-92b416228/">
     <img src="https://img.shields.io/badge/LinkedIn-Abid%20Mouaad-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Paris%2C%20France-0078D4?style=flat-square&logo=google-maps&logoColor=white" />
