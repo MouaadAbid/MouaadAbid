@@ -1,15 +1,110 @@
-# 💫 About Me:
-<h1 align="center">Hey, I'm Mouaad 👋</h1><br><h3 align="center">Full-Stack Developer · Django / Angular · Paris, France</h3><br><br><p align="center"><br>  <a href="mailto:mouaadabid21@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-mouaadabid21%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /><br>  </a><br>  <a href="https://www.linkedin.com/in/abid-mouaad"><br>    <img src="https://img.shields.io/badge/LinkedIn-Abid%20Mouaad-0077B5?style=flat-square&logo=linkedin&logoColor=white" /><br>  </a><br>  <img src="https://img.shields.io/badge/Location-Paris%2C%20France-0078D4?style=flat-square&logo=google-maps&logoColor=white" /><br></p><br><br>---<br><br>## 🧑‍💻 About Me<br><br>I'm a **25-year-old full-stack developer** with 2+ years of professional experience building robust, scalable web applications — from clean Angular frontends to solid Django backends.<br><br>I've had the chance to work on real-world ERP platforms, real estate tools, and freelance projects, which gave me a strong sense of software architecture, automated testing, and shipping code that actually holds up in production.<br><br>Currently studying for my **Expert en Informatique et Systèmes d'Information** at **EPSI Paris (2025–2027)** and actively looking for a **one-year work-study contract (alternance) starting September 2026** — 2 weeks in company / 1 week at school.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Frontend**<br><br>![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)<br><br>**Backend**<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)<br>![DRF](https://img.shields.io/badge/Django%20REST%20Framework-red?style=flat-square&logo=django&logoColor=white)<br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)<br>![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)<br>![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)<br><br>**QA & DevOps**<br><br>![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)<br>![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)<br>![GitLab CI](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)<br>![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)<br><br>---<br><br>## 💼 Experience<br><br>### 🏢 Belsons Technologies — Dubai *(Feb 2024 – Oct 2025)*<br><br>**Full-Stack Developer** on three distinct products:<br><br>- **Livo ERP** — Integrated enterprise management platform  <br>  Built Angular modules for leasing, sales, finance, CRM, and admin. Developed REST endpoints with Django REST Framework, and set up an automated testing pipeline with Cypress (E2E) and Pytest (backend).<br><br>- **EPMS** — Enterprise management platform  <br>  Maintained and extended a large Angular app (TypeScript, RxJS) within an Nx Monorepo. Contributed to Agile/Scrum sprints and wrote E2E tests with Cypress.<br><br>- **Belsio** — Real estate valuation platform  <br>  Built an Angular SPA connected to Django/DRF REST APIs. Optimised performance and managed async workloads using Redis, Celery, and Django Channels.<br><br>---<br><br>## 🚀 Projects<br><br>### 📦 Freelance Platform *(Independent Project)*<br>A full-stack platform for connecting freelancers with clients. I handled the complete software architecture (UML modelling), and built REST APIs with Django covering authentication, project management, bidding, and messaging.<br><br>> More projects coming soon — currently migrating personal work to GitHub.<br><br>---<br><br>## 🎓 Education<br><br>| Degree | School | Period |<br>|---|---|---|<br>| Expert en Informatique et SI | EPSI Paris | 2025 – 2027 |<br>| Master — Distributed Networks & Systems | Université Constantine 2 | 2022 – 2024 |<br>| Licence — Computer Science | Université Constantine 2 | 2018 – 2022 |<br><br>---<br><br>## 🌍 Languages<br><br>- 🇩🇿 Arabic — Native<br>- 🇫🇷 French — Fluent<br>- 🇬🇧 English — Fluent<br><br>---<br><br>## 📬 Open to Opportunities<br><br>I'm actively looking for a **work-study contract (alternance) starting September 2026** in the Paris region.  <br>**Rhythm:** 2 weeks on-site / 1 week at school.<br><br>If you're building something with Angular or Django and need someone who cares about code quality, testing, and clean architecture — let's talk!<br><br>📧 [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  <br>💼 [LinkedIn](https://www.linkedin.com/in/abid-mouaad)
+<h1 align="center">Hey, I'm Mouaad 👋</h1>
+<h3 align="center">Full-Stack Developer · Django / Angular · Paris, France</h3>
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MouaadAbid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MouaadAbid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MouaadAbid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:mouaadabid21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mouaadabid21%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abid-mouaad">
+    <img src="https://img.shields.io/badge/LinkedIn-Abid%20Mouaad-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Paris%2C%20France-0078D4?style=flat-square&logo=google-maps&logoColor=white" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MouaadAbid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **25-year-old full-stack developer** with 2+ years of professional experience building robust, scalable web applications — from clean Angular frontends to solid Django backends.
+
+I've had the chance to work on real-world ERP platforms, real estate tools, and freelance projects, which gave me a strong sense of software architecture, automated testing, and shipping code that actually holds up in production.
+
+Currently studying for my **Expert en Informatique et Systèmes d'Information** at **EPSI Paris (2025–2027)** and actively looking for a **one-year work-study contract (alternance) starting September 2026** — 2 weeks in company / 1 week at school.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-red?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+**QA & DevOps**
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏢 Belsons Technologies — Dubai *(Feb 2024 – Oct 2025)*
+
+**Full-Stack Developer** on three distinct products:
+
+- **Livo ERP** — Integrated enterprise management platform  
+  Built Angular modules for leasing, sales, finance, CRM, and admin. Developed REST endpoints with Django REST Framework, and set up an automated testing pipeline with Cypress (E2E) and Pytest (backend).
+
+- **EPMS** — Enterprise management platform  
+  Maintained and extended a large Angular app (TypeScript, RxJS) within an Nx Monorepo. Contributed to Agile/Scrum sprints and wrote E2E tests with Cypress.
+
+- **Belsio** — Real estate valuation platform  
+  Built an Angular SPA connected to Django/DRF REST APIs. Optimised performance and managed async workloads using Redis, Celery, and Django Channels.
+
+---
+
+## 🚀 Projects
+
+### 📦 Freelance Platform *(Independent Project)*
+A full-stack platform for connecting freelancers with clients. I handled the complete software architecture (UML modelling), and built REST APIs with Django covering authentication, project management, bidding, and messaging.
+
+> More projects coming soon — currently migrating personal work to GitHub.
+
+---
+
+## 🎓 Education
+
+| Degree | School | Period |
+|---|---|---|
+| Expert en Informatique et SI | EPSI Paris | 2025 – 2027 |
+| Master — Distributed Networks & Systems | Université Constantine 2 | 2022 – 2024 |
+| Licence — Computer Science | Université Constantine 2 | 2018 – 2022 |
+
+---
+
+## 🌍 Languages
+
+- 🇩🇿 Arabic — Native
+- 🇫🇷 French — Fluent
+- 🇬🇧 English — Fluent
+
+---
+
+## 📬 Open to Opportunities
+
+I'm actively looking for a **work-study contract (alternance) starting September 2026** in the Paris region.  
+**Rhythm:** 2 weeks on-site / 1 week at school.
+
+If you're building something with Angular or Django and need someone who cares about code quality, testing, and clean architecture — let's talk!
+
+📧 [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abid-mouaad)
