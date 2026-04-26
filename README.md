@@ -13,16 +13,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a **25-year-old full-stack developer** with 2+ years of professional experience building robust, scalable web applications — from clean Angular frontends to solid Django backends.
-
-I've had the chance to work on real-world ERP platforms, real estate tools, and freelance projects, which gave me a strong sense of software architecture, automated testing, and shipping code that actually holds up in production.
-
-Currently studying for my **Expert en Informatique et Systèmes d'Information** at **EPSI Paris (2025–2027)** and actively looking for a **one-year work-study contract (alternance) starting September 2026** — 2 weeks in company / 1 week at school.
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -55,49 +45,6 @@ Currently studying for my **Expert en Informatique et Systèmes d'Information** 
 
 ---
 
-## 💼 Experience
-
-### 🏢 Belsons Technologies — Dubai *(Feb 2024 – Oct 2025)*
-
-**Full-Stack Developer** on three distinct products:
-
-- **Livo ERP** — Integrated enterprise management platform  
-  Built Angular modules for leasing, sales, finance, CRM, and admin. Developed REST endpoints with Django REST Framework, and set up an automated testing pipeline with Cypress (E2E) and Pytest (backend).
-
-- **EPMS** — Enterprise management platform  
-  Maintained and extended a large Angular app (TypeScript, RxJS) within an Nx Monorepo. Contributed to Agile/Scrum sprints and wrote E2E tests with Cypress.
-
-- **Belsio** — Real estate valuation platform  
-  Built an Angular SPA connected to Django/DRF REST APIs. Optimised performance and managed async workloads using Redis, Celery, and Django Channels.
-
----
-
-## 🚀 Projects
-
-### 📦 Freelance Platform *(Independent Project)*
-A full-stack platform for connecting freelancers with clients. I handled the complete software architecture (UML modelling), and built REST APIs with Django covering authentication, project management, bidding, and messaging.
-
-> More projects coming soon — currently migrating personal work to GitHub.
-
----
-
-## 🎓 Education
-
-| Degree | School | Period |
-|---|---|---|
-| Expert en Informatique et SI | EPSI Paris | 2025 – 2027 |
-| Master — Distributed Networks & Systems | Université Constantine 2 | 2022 – 2024 |
-| Licence — Computer Science | Université Constantine 2 | 2018 – 2022 |
-
----
-
-## 🌍 Languages
-
-- 🇩🇿 Arabic — Native
-- 🇫🇷 French — Fluent
-- 🇬🇧 English — Fluent
-
----
 
 ## 📬 Open to Opportunities
 
@@ -107,4 +54,4 @@ I'm actively looking for a **work-study contract (alternance) starting September
 If you're building something with Angular or Django and need someone who cares about code quality, testing, and clean architecture — let's talk!
 
 📧 [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/abid-mouaad)
+💼 [LinkedIn](https://www.linkedin.com/in/abid-mouaad-92b416228/)
