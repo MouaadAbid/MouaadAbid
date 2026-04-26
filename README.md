@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -46,12 +46,12 @@
 ---
 
 
-## 📬 Open to Opportunities
+##  Open to Opportunities
 
-I'm actively looking for a **work-study contract (alternance) starting September 2026** in the Paris region.  
+I'm actively looking for a **work-study contract (alternance) starting September 2026** in the Paris region.
 **Rhythm:** 2 weeks on-site / 1 week at school.
 
-If you're building something with Angular or Django and need someone who cares about code quality, testing, and clean architecture — let's talk!
+I'm also open to freelance opportunities and part-time roles, especially in web development, backend systems, and data-driven projects.
 
-📧 [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/abid-mouaad-92b416228/)
+ [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/abid-mouaad-92b416228/)
