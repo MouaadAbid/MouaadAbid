@@ -46,11 +46,20 @@
 ---
 
 
-##  Open to Opportunities
+## 🤝 Open to Opportunities
 
-I'm actively looking for a **work-study contract (alternance) starting September 2026** in the Paris region.
-**Rhythm:** 2 weeks on-site / 1 week at school.
+I'm actively looking for a **work-study contract (alternance) starting September 2026** in the **Paris region**.
+📅 **Rhythm:** 2 weeks on-site / 1 week at school.
 
-I'm also open to freelance opportunities and part-time roles, especially in web development, backend systems, and data-driven projects.
- [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  
- [LinkedIn](https://www.linkedin.com/in/abid-mouaad-92b416228/)
+I'm also open to **freelance** and **part-time** roles, particularly in:
+- 🌐 Web Development
+- ⚙️ Backend Systems
+- 📊 Data-driven Projects
+
+### 📬 Let's Connect
+
+| | |
+|---|---|
+| 📧 **Email** | [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com) |
+| 💼 **LinkedIn** | [Mouaad Abid](https://www.linkedin.com/in/abid-mouaad-92b416228/) |
+| 🌍 **Portfolio** | [mouaadabid.vercel.app](https://mouaadabid.vercel.app) |
