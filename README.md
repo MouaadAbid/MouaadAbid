@@ -52,6 +52,5 @@ I'm actively looking for a **work-study contract (alternance) starting September
 **Rhythm:** 2 weeks on-site / 1 week at school.
 
 I'm also open to freelance opportunities and part-time roles, especially in web development, backend systems, and data-driven projects.
- Portfolio :  https://mouaadabid.vercel.app/
  [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com)  
  [LinkedIn](https://www.linkedin.com/in/abid-mouaad-92b416228/)
