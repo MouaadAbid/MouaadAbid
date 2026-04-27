@@ -55,8 +55,8 @@ I'm also open to freelance opportunities and part-time roles, especially in web 
 
 ###  Let's Connect
 
-| | |
 
- 📧 **Email**  [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com) 
- 💼 **LinkedIn**  [Mouaad Abid](https://www.linkedin.com/in/abid-mouaad-92b416228/) 
- 🌍 **Portfolio**  [mouaadabid.vercel.app](https://mouaadabid.vercel.app) 
+
+  **Email**  [mouaadabid21@gmail.com](mailto:mouaadabid21@gmail.com) |
+  **LinkedIn**  [Mouaad Abid](https://www.linkedin.com/in/abid-mouaad-92b416228/) |
+  **Portfolio**  [mouaadabid.vercel.app](https://mouaadabid.vercel.app) |
